@@ -25,20 +25,20 @@
     "pre:release": "pnpm lint && release-it --preRelease"
   },
   "dependencies": {
-    "@nuxt/kit": "^3.5.2",
-    "@supabase/supabase-js": "2.24.0",
-    "defu": "^6.1.2",
-    "pathe": "^1.1.0"
+    "@nuxt/kit": "^3.11.2",
+    "@supabase/supabase-js": "2.43.4",
+    "defu": "^6.1.4",
+    "pathe": "^1.1.2"
   },
   "devDependencies": {
-    "@nuxt/module-builder": "^0.4.0",
-    "@nuxt/schema": "^3.5.2",
-    "@nuxt/eslint-config": "^0.1.1",
-    "@types/node": "^20.2.5",
-    "eslint": "^8.41.0",
-    "nuxt": "^3.5.2",
-    "release-it": "^15.10.3",
-    "typescript": "^5.0.4"
+    "@nuxt/module-builder": "^0.7.0",
+    "@nuxt/schema": "^3.11.2",
+    "@nuxt/eslint-config": "^0.3.13",
+    "@types/node": "^20.14.1",
+    "eslint": "^8.57.0",
+    "nuxt": "^3.11.2",
+    "release-it": "^15.11.0",
+    "typescript": "^5.4.5"
   },
   "release-it": {
     "git": {
